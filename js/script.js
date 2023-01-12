@@ -8,5 +8,5 @@ function ativarLink(link) {
   }
 }
 
-
-links.forEach(ativarLink) //quando se quer passar a msm funcao pra cada item, no caso os 3 As dentro do header-menu
+links.forEach(ativarLink) //quando se quer passar a msm funcao pra cada item, no caso os 3 As dentro do header-menu.
+// a fucao acima adiciona uma classe ao html chamada ativo, essa classe ativo faz com que o hover (barrinha animada abaixo dos titulos) no header fique fixo apos um ser selecionado.
